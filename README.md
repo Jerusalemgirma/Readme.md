@@ -14,13 +14,12 @@
 ### 🚀 About Me
 **Full Stack Developer | ERP & System Builder | Problem Solver**
 
-I am a Full Stack Developer focused on building **real-world business systems** and scalable web applications.  
-I enjoy connecting powerful backend logic with clean, practical user interfaces.
+I build real-world business systems and scalable web applications, focusing on ERP customization, automation, and modern web platforms.
 
-💡 I specialize in:
+💡 Specializing in:
 - ERP & business automation systems
-- Custom platforms using Frappe & ERPNext
-- Modern web apps with Vue.js & Next.js
+- Frappe & ERPNext development
+- Vue.js & Next.js frontend applications
 - Backend APIs and integrations
 
 *Always building. Always improving. Always learning.*
@@ -44,37 +43,37 @@ I enjoy connecting powerful backend logic with clean, practical user interfaces.
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerusalemgirma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerusalemgirma&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jerusalemgirma&theme=tokyonight&hide_border=true&area=true" />
 </div>
 
 ---
 
 ### 🎯 Currently Focused On
 
-🔭 **Building:**
+🔭 **Building**
 - Tenant & Property Management System (Frappe)
 - Online Optical Shop with Virtual Try-On
 - Telegram Bot integrations for ERP workflows
 
-🌱 **Learning:**
+🌱 **Learning**
 - System architecture & scalable backend design
-- Real-time applications & automation
+- Real-time systems & automation
 - Advanced ERP customization
 
-👯 **Open to:**
+👯 **Open to**
 - Open source collaboration
 - ERP customization projects
 - Startup tech ideas
 
-💬 **Ask me about:**
+💬 **Ask me about**
 Frappe, ERPNext, Vue.js, Next.js, Linux servers, or backend architecture.
 
 ---
